@@ -37,8 +37,8 @@ $\mathcal{0}(n\log{n})$
 ---
 
 # Two Columns
-* Image on on column and text on the other is relatively easy
-* Two Text Columns is much harder
+- Image on on column and text on the other is relatively easy
+- Two Text Columns is much harder
 
 
 ![bg left](images/rubberduck.jpg)
