@@ -5,7 +5,7 @@ theme: gaia
 
 # Using Marp
 
-* Create a slide deck all in on .md file
+* Create a slide deck all in one .md file
 * Compile as html or pdf
 * Download html locally and open with a browser or host for free with Github Pages, etc for presenting
 * Relatively lightweight and easy to use
