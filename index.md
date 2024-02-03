@@ -8,6 +8,7 @@ theme: gaia
 * Create a slide deck all in on .md file
 * Compile as html or pdf
 * Download html locally and open with a Browser or Host for free with Github Pages, for Presentation
+* Relatively lightweight and easy to use
 
 ---
 
@@ -31,16 +32,25 @@ $\mathcal{0}(n\log{n})$
 
 # <span style="color: blue;">Choose an Image for the Background</span>
 
+<span style="color: blue;">In case you want a "template" to use besides the two default ones offered</span>
 
 ---
 
 # Two Columns
+* Image on on column and text on the other is relatively easy
+* Two Text Columns is much harder
+
 
 ![bg left](images/rubberduck.jpg)
 
 ---
 
 # Emoji Support :rocket:
+
+List of Emojis supported at:
+
+https://gist.github.com/rxaviers/7360908
+
 
 ---
 
