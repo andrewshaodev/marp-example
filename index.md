@@ -7,7 +7,7 @@ theme: gaia
 
 * Create a slide deck all in on .md file
 * Compile as html or pdf
-* Download html locally and open with a Browser or Host for free with Github Pages, for Presentation
+* Download html locally and open with a browser or host for free with Github Pages, etc for presenting
 * Relatively lightweight and easy to use
 
 ---
