@@ -1,0 +1,1 @@
+This template Contains a Dev Container configuration to create a Marp Presentation, along with the Marp CLI to generate either a HTML or PDF version. The examples.md file contains some of what I would consider typical needs for creating a slide deck.
