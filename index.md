@@ -24,7 +24,9 @@ print("hello world")
 
 Math:
 
-$\mathcal{0}(n\log{n})$
+$$
+f_{\vec{w},b}(\vec{x}) = \vec{w} \cdot \vec{x} + b
+$$
 
 ---
 
